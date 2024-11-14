@@ -31,5 +31,5 @@ int main() {
 		break;
 	}
 	cout << "." << endl; // finish sentence, break line
-  return 0; // exit
+	return 0; // exit
 }
