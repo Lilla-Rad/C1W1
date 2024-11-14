@@ -8,5 +8,6 @@ void simpleArith(int num1, int num2) {
 // void due to not returning any values
 
 int main() {
-  simpleArith(3,5);
+  simpleArith(3, 5);
+  return 0;
 }
