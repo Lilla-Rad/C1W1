@@ -6,9 +6,11 @@ void staticLocalVarDemo() {
 	numberOfcalls++;
 	printf("Number of function calls: %d\n", numberOfcalls);
 }
+// void because it returns nothing
 
 int main() {
 	staticLocalVarDemo();
 	staticLocalVarDemo();
 	staticLocalVarDemo();
+	return 0;
 }
