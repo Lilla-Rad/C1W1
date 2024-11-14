@@ -13,7 +13,7 @@ void globalDemo() {
 
 int main() {
   globalDemo();
-	globalDemo(); 
+  globalDemo(); 
   globalDemo();
   return 0; 
 }
